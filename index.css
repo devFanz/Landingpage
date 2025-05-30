@@ -64,6 +64,7 @@ main {
 .information {
     text-align: center;
     justify-content: center;
+    padding-bottom: 50px;
 }
 
 .information-header {
